@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260502133218K2YAAZ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605021332186SUSE0</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Situación de Aprendizaje </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Daniel Viejo Velarde </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777721530684</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moo9hwyb-857bjsehj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción Situación de Aprendizaje</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción Situación de Aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción Situación de Aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moo9hwyb-857bjsehj</odePageId>
+      <odeBlockId>block-1777713496923-onrmxvln9</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moo9hwyb-857bjsehj</odePageId>
+          <odeBlockId>block-1777713496923-onrmxvln9</odeBlockId>
+          <odeIdeviceId>idevice-1777713496920-chh65k2ry</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La Situación de Aprendizaje (en adelante SDA) va a consistir en una búsqueda de información sobre diferentes países del mundo. Se pretende que sean capaces de manejar el procesador de textos <em>Word</em>, para después volcar la búsqueda de información que han llevado a cabo en una infografía en <em>Canva</em>. Todo ello será llevado a cabo en el aula de informática. No se busca que el trabajo lo realicen en casa, sino que sea significativo y en el aula. </p>
+<p style="text-align: justify;">Esta  SDA está dirigida a la clase de 5º y 6º de Educación Primaria del Colegio Público Benjamín Mateo. </p>
+<p style="text-align: justify;">Se encuentra englobada dentro del área de Ciencias <strong>Sociales</strong>, ya que considero que es en la que mejor cabida tiene. </p>
+<p style="text-align: justify;">En este caso el trabajo es individual, si bien es cierto que en muchas ocasiones trabajan con el compañero o compañera que tienen al lado buscando que se mejore el aprendizaje de ambos. En cuanto al espacio, se lleva a cabo en el aula de informática, que cuenta con un ordenador para cada uno. En total son 18 estudiantes. </p>
+<p style="text-align: justify;">Temporalización: la SDA se lleva a cabo durante el segundo trimestre. Está previsto que tenga una duración de <strong>X </strong>semanas. </p>
+<p style="text-align: justify;">El producto principal de la SDA va a ser una infografía en la que se plasmará la información más destacada de lo que han buscado sobre el país que les haya tocado. Previamente habrán tenido que redactar en un documento <em>Word </em>la información que les he pedido. Les entregaré un documento impreso en el que les doy los puntos que tienen que buscar. La idea es que después traspasen la información de la búsqueda a un <em>Canva</em>, y ese será el producto final. Una vez me los hayan compartido se revisarán para posteriormente ser impresos y decorar el pasillo del colegio. Por último, realizarán un podcast en el que se preguntarán unos a otros la información de los diferentes países.</p>
+<p style="text-align: justify;">Herramientas por parte del docente: por mi parte he utilizado el <em>Copilot</em> para diseñar el documento en el que les pido la información de los países. También lo utilicé para pedirle que me asignase los países a cada alumno y me hiciera una tabla que fuera visual para el alumnado.</p>
+<p style="text-align: justify;">Herramientas por parte del alumnado: en el caso del alumnado han utilizado el <em>Microsoft Word</em>, a través de su cuenta educativa. Además, utilizan el <em>Canva</em> en el que ya tienen una cuenta creada previamente. </p>
+<p style="text-align: justify;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777713496920-chh65k2ry","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La Situación de Aprendizaje (en adelante SDA) va a consistir en una búsqueda de información sobre diferentes países del mundo. Se pretende que sean capaces de manejar el procesador de textos <em>Word</em>, para después volcar la búsqueda de información que han llevado a cabo en una infografía en <em>Canva</em>. Todo ello será llevado a cabo en el aula de informática. No se busca que el trabajo lo realicen en casa, sino que sea significativo y en el aula. </p>\n<p style=\"text-align: justify;\">Esta  SDA está dirigida a la clase de 5º y 6º de Educación Primaria del Colegio Público Benjamín Mateo. </p>\n<p style=\"text-align: justify;\">Se encuentra englobada dentro del área de Ciencias <strong>Sociales</strong>, ya que considero que es en la que mejor cabida tiene. </p>\n<p style=\"text-align: justify;\">En este caso el trabajo es individual, si bien es cierto que en muchas ocasiones trabajan con el compañero o compañera que tienen al lado buscando que se mejore el aprendizaje de ambos. En cuanto al espacio, se lleva a cabo en el aula de informática, que cuenta con un ordenador para cada uno. En total son 18 estudiantes. </p>\n<p style=\"text-align: justify;\">Temporalización: la SDA se lleva a cabo durante el segundo trimestre. Está previsto que tenga una duración de <strong>X </strong>semanas. </p>\n<p style=\"text-align: justify;\">El producto principal de la SDA va a ser una infografía en la que se plasmará la información más destacada de lo que han buscado sobre el país que les haya tocado. Previamente habrán tenido que redactar en un documento <em>Word </em>la información que les he pedido. Les entregaré un documento impreso en el que les doy los puntos que tienen que buscar. La idea es que después traspasen la información de la búsqueda a un <em>Canva</em>, y ese será el producto final. Una vez me los hayan compartido se revisarán para posteriormente ser impresos y decorar el pasillo del colegio. Por último, realizarán un podcast en el que se preguntarán unos a otros la información de los diferentes países.</p>\n<p style=\"text-align: justify;\">Herramientas por parte del docente: por mi parte he utilizado el <em>Copilot</em> para diseñar el documento en el que les pido la información de los países. También lo utilicé para pedirle que me asignase los países a cada alumno y me hiciera una tabla que fuera visual para el alumnado.</p>\n<p style=\"text-align: justify;\">Herramientas por parte del alumnado: en el caso del alumnado han utilizado el <em>Microsoft Word</em>, a través de su cuenta educativa. Además, utilizan el <em>Canva</em> en el que ya tienen una cuenta creada previamente. </p>\n<p style=\"text-align: justify;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moo9hwyf-9dwbtsi5f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moo9hwyf-9dwbtsi5f</odePageId>
+      <odeBlockId>block-1777716205520-qn6tqja99</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moo9hwyf-9dwbtsi5f</odePageId>
+          <odeBlockId>block-1777716205520-qn6tqja99</odeBlockId>
+          <odeIdeviceId>idevice-1777716205516-wwg0dgx1f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Justificación de su desarrollo y el impacto esperado </strong></p>
+<p>Uno de los retos educativos que se plantean en el día a día de cualquier centro educativo es el uso de las Nuevas Tecnologías. En mi caso concreto, quiero que se utilicen de manera responsable y me gustaría que esta SDA sirviera para que sus competencias digitales mejorasen. Además, concuerda con los criterios de evaluación que más adelante mencionaré. Me gustaría también que tuviera un impacto positivo y que despertara su curiosidad de cara a que estén motivados y sean partícipes del proceso Enseñanza- Aprendizaje. Todos estos contenidos se podrían impartir de manera tradicional, pero considero que de esta forma es mucho más enriquecedor y, sobre todo, significativo. </p>
+<p><strong>Relación de la SDA con los ODS y los Retos del siglo XXI</strong></p>
+<p><em>ODS 4, Educación de Calidad:</em> con esta SDA se fomenta una educación de calidad, en la que se mira por las competencias digitales del alumnado y se fomenta un aprendizaje competencial. Se trata de un aprendizaje competencial porque pueden trasladarlo a su día a día, de tal manera que lo que están aprendiendo ellos puedan ver que les sirve y que tiene utilidad. </p>
+<p><em>ODS 5, Igualdad de género:</em> con esta SDA se fomenta la igualdad de género, ya que todos llevan a cabo la misma actividad, sin distinciones y fomentando que el clima de trabajo en el aula sea positivo. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777716205516-wwg0dgx1f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Justificación de su desarrollo y el impacto esperado </strong></p>\n<p>Uno de los retos educativos que se plantean en el día a día de cualquier centro educativo es el uso de las Nuevas Tecnologías. En mi caso concreto, quiero que se utilicen de manera responsable y me gustaría que esta SDA sirviera para que sus competencias digitales mejorasen. Además, concuerda con los criterios de evaluación que más adelante mencionaré. Me gustaría también que tuviera un impacto positivo y que despertara su curiosidad de cara a que estén motivados y sean partícipes del proceso Enseñanza- Aprendizaje. Todos estos contenidos se podrían impartir de manera tradicional, pero considero que de esta forma es mucho más enriquecedor y, sobre todo, significativo. </p>\n<p><strong>Relación de la SDA con los ODS y los Retos del siglo XXI</strong></p>\n<p><em>ODS 4, Educación de Calidad:</em> con esta SDA se fomenta una educación de calidad, en la que se mira por las competencias digitales del alumnado y se fomenta un aprendizaje competencial. Se trata de un aprendizaje competencial porque pueden trasladarlo a su día a día, de tal manera que lo que están aprendiendo ellos puedan ver que les sirve y que tiene utilidad. </p>\n<p><em>ODS 5, Igualdad de género:</em> con esta SDA se fomenta la igualdad de género, ya que todos llevan a cabo la misma actividad, sin distinciones y fomentando que el clima de trabajo en el aula sea positivo. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moo9hwyg-wp91591u0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Elementos curriculares </pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moo9hwyg-wp91591u0</odePageId>
+      <odeBlockId>block-1777719757342-eq6d7e4pl</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moo9hwyg-wp91591u0</odePageId>
+          <odeBlockId>block-1777719757342-eq6d7e4pl</odeBlockId>
+          <odeIdeviceId>idevice-1777719757319-z8wc6b93j</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777719757319-z8wc6b93j" title="" href="{{context_path}}/content/resources/Conexion elementos curriculares.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Conexion elementos curriculares.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777719757319-z8wc6b93j","img_0":{"img":"{{context_path}}/content/resources/Conexion elementos curriculares.png","thumbnail":"{{context_path}}/content/resources/Conexion elementos curriculares.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moo9hwyh-xuy2xe7py</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moo9hwyh-xuy2xe7py</odePageId>
+      <odeBlockId>block-1777719819203-bl0wihdn7</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moo9hwyh-xuy2xe7py</odePageId>
+          <odeBlockId>block-1777719819203-bl0wihdn7</odeBlockId>
+          <odeIdeviceId>idevice-1777719819200-6jii5s6ns</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777719819200-6jii5s6ns" title="" href="{{context_path}}/content/resources/Metodología.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Metodología.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777719819200-6jii5s6ns","img_0":{"img":"{{context_path}}/content/resources/Metodología.png","thumbnail":"{{context_path}}/content/resources/Metodología.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moo9hwyo-ewuwv9yg6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Vinculación con los proyectos y programas del centro </pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con los proyectos y programas del centro </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con los proyectos y programas del centro </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moo9hwyo-ewuwv9yg6</odePageId>
+      <odeBlockId>block-1777719838706-37gu5ve61</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moo9hwyo-ewuwv9yg6</odePageId>
+          <odeBlockId>block-1777719838706-37gu5ve61</odeBlockId>
+          <odeIdeviceId>idevice-1777719838705-6cs29s0x4</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777719838705-6cs29s0x4" title="" href="{{context_path}}/content/resources/Evaluación.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Evaluación.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777719838705-6cs29s0x4","img_0":{"img":"{{context_path}}/content/resources/Evaluación.png","thumbnail":"{{context_path}}/content/resources/Evaluación.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moo9hwyp-6bhoe9bdg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moo9hwyp-6bhoe9bdg</odePageId>
+      <odeBlockId>block-1777719864588-n6ybvinsq</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moo9hwyp-6bhoe9bdg</odePageId>
+          <odeBlockId>block-1777719864588-n6ybvinsq</odeBlockId>
+          <odeIdeviceId>idevice-1777719864586-kshhias0o</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777719864586-kshhias0o" title="" href="{{context_path}}/content/resources/Evaluación.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Evaluación.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777719864586-kshhias0o","img_0":{"img":"{{context_path}}/content/resources/Evaluación.png","thumbnail":"{{context_path}}/content/resources/Evaluación.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moo9hwyp-xc6ekj000</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atribución y descarga</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
